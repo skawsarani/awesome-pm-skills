@@ -30,13 +30,38 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 - 📢 Communicating effectively with stakeholders
 - 🤝 Navigating organizational politics
 - 👥 Leading teams and growing your career
+- 🔥 Applying the latest AI PM insights directly to your codebase
+
+---
+
+## 🔥 One Step Better AI PM
+
+**Get 1% better at AI product management every day.**
+
+The meta-skill that ties everything together. It pulls the latest 5 days of curated insights from [GenAI PM](https://genaipm.com), analyzes your current repo, finds what's relevant to your project, and helps you apply one concrete improvement — powered by the same AI curation engine that 5,000+ AI PMs rely on daily.
+
+29. **[`one-step-better-ai-pm`](one-step-better-ai-pm/SKILL.md)** - Latest AI PM insights → your repo → one actionable improvement
+
+```
+"Run /one-step-better-ai-pm"
+
+→ Fetches latest GenAI PM briefs (1,000+ sources, AI-curated)
+→ Builds a profile of your repo (product, AI/ML, stack, tooling)
+→ Finds the highest-impact match between what's trending and what you're building
+→ Presents findings for your approval
+→ Researches the source material and applies the improvement
+→ Tracks your progress over time
+```
+
+**Requires:** Free GenAI PM subscription ([genaipm.com](https://genaipm.com)) + set `GENAIPM_EMAIL` env var
 
 ---
 
 ## 🚀 The Lenny Collection (28 Skills)
 
 ### 🏗️ BUILDER MODE (11 Skills)
-*For: Prototyping, shipping, and measuring products*
+
+_For: Prototyping, shipping, and measuring products_
 
 [![zero-to-launch](images/zero-to-launch.png)](zero-to-launch/SKILL.md)
 [![strategic-build](images/strategic-build.png)](strategic-build/SKILL.md)
@@ -67,7 +92,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 📢 COMMUNICATOR MODE (4 Skills)
-*For: Storytelling, writing, presenting, positioning*
+
+_For: Storytelling, writing, presenting, positioning_
 
 [![strategic-storytelling](images/strategic-storytelling.png)](strategic-storytelling/SKILL.md)
 [![positioning-craft](images/positioning-craft.png)](positioning-craft/SKILL.md)
@@ -82,7 +108,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 🎯 STRATEGIST MODE (4 Skills)
-*For: Decisions, prioritization, strategy, OKRs*
+
+_For: Decisions, prioritization, strategy, OKRs_
 
 [![decision-frameworks](images/decision-frameworks.png)](decision-frameworks/SKILL.md)
 [![strategy-frameworks](images/strategy-frameworks.png)](strategy-frameworks/SKILL.md)
@@ -97,7 +124,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 🤝 NAVIGATOR MODE (3 Skills)
-*For: Influence, stakeholders, politics, getting things done*
+
+_For: Influence, stakeholders, politics, getting things done_
 
 [![influence-craft](images/influence-craft.png)](influence-craft/SKILL.md)
 [![stakeholder-craft](images/stakeholder-craft.png)](stakeholder-craft/SKILL.md)
@@ -110,7 +138,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 👥 LEADER MODE (3 Skills)
-*For: Team building, culture, career growth*
+
+_For: Team building, culture, career growth_
 
 [![culture-craft](images/culture-craft.png)](culture-craft/SKILL.md)
 [![career-growth](images/career-growth.png)](career-growth/SKILL.md)
@@ -123,7 +152,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 📊 MEASUREMENT MODE (2 Skills)
-*For: Metrics, experiments, feedback*
+
+_For: Metrics, experiments, feedback_
 
 [![metrics-frameworks](images/metrics-frameworks.png)](metrics-frameworks/SKILL.md)
 [![user-feedback-system](images/user-feedback-system.png)](user-feedback-system/SKILL.md)
@@ -134,7 +164,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 ---
 
 ### 🚀 LAUNCH MODE (1 Skill)
-*For: Go-to-market and launch execution*
+
+_For: Go-to-market and launch execution_
 
 [![launch-execution](images/launch-execution.png)](launch-execution/SKILL.md)
 
@@ -202,6 +233,7 @@ Building → strategic-build (is this Leverage work?)
 ### 1. **Based on 300+ Episodes, 783K+ Views**
 
 Top guests by viewership:
+
 - Brian Chesky (Airbnb) - 381K views
 - Shreyas Doshi (Stripe, Twitter, Google) - 260K views
 - Marty Cagan (Silicon Valley Product Group) - 226K views
@@ -218,6 +250,7 @@ Top guests by viewership:
 ### 3. **Real Frameworks, Not Generic Advice**
 
 Each skill includes:
+
 - Specific frameworks (LNO, RICE, Jobs-to-be-Done, etc.)
 - Decision trees (when to apply which framework)
 - Code examples (for builder skills)
@@ -227,6 +260,7 @@ Each skill includes:
 ### 4. **Built for AI Builders**
 
 Perfect for PMs who:
+
 - Use Cursor or Claude Code to build prototypes
 - Want to move fast with product thinking
 - Need strategic guidance while coding
@@ -237,7 +271,9 @@ Perfect for PMs who:
 ## 📚 Skill Categories Explained
 
 ### Builder Mode Skills
+
 When building features, these skills help you:
+
 - Scope MVP correctly (zero-to-launch)
 - Make strategic build decisions (strategic-build)
 - Discover customer needs weekly (continuous-discovery)
@@ -247,27 +283,35 @@ When building features, these skills help you:
 - Ship with confidence (ship-decisions)
 
 ### Communicator Mode Skills
+
 When presenting, writing, or positioning:
+
 - Craft compelling narratives (strategic-storytelling)
 - Position products effectively (positioning-craft)
 - Write executive memos (exec-comms)
 - Present with confidence (confident-speaking)
 
 ### Strategist Mode Skills
+
 When making decisions and setting direction:
+
 - Make better decisions (decision-frameworks)
 - Create product strategy (strategy-frameworks)
 - Set goals effectively (okr-frameworks)
 - Prioritize ruthlessly (prioritization-craft)
 
 ### Navigator Mode Skills
+
 When dealing with people and politics:
+
 - Build influence (influence-craft)
 - Manage stakeholders (stakeholder-craft)
 - Handle difficult colleagues (workplace-navigation)
 
 ### Leader Mode Skills
+
 When building teams and advancing your career:
+
 - Build culture (culture-craft)
 - Grow your career (career-growth)
 - Become more strategic (strategic-pm)
@@ -297,6 +341,7 @@ When building teams and advancing your career:
 ### For Experienced PMs:
 
 Jump straight to advanced skills:
+
 - **Strategic thinking:** `strategy-frameworks`, `strategic-pm`
 - **AI building:** `ai-product-patterns`, `ai-startup-building`
 - **Growth:** `growth-embedded`, `metrics-frameworks`
@@ -341,6 +386,7 @@ These skills are based on publicly available content from Lenny's Podcast. The t
 ### Guest Attribution
 
 Every skill credits its source guests:
+
 - 381K views: Brian Chesky (Airbnb)
 - 260K views: Shreyas Doshi (Stripe, Twitter, Google)
 - 226K views: Marty Cagan (SVPG)
@@ -354,6 +400,7 @@ Every skill credits its source guests:
 ## 🔮 Future Roadmap
 
 **Next Wave of Skills:**
+
 - Technical PM skills (APIs, data models, system design)
 - Pricing & monetization frameworks
 - International expansion playbooks
@@ -361,9 +408,11 @@ Every skill credits its source guests:
 - Zero-to-one product creation
 
 **Community Additions:**
+
 - Submit your own skill based on Lenny episodes
 - Share "skill stacks" for specific products
 - Showcase projects built with skills
+- More meta-skills powered by GenAI PM's curated content
 
 ---
 
@@ -381,16 +430,20 @@ Udi Menkes is an AI Product Leader at Intuit, working on innovative AI products 
 **This project would not exist without:**
 
 ### 🎙️ Lenny's Podcast
+
 - **[Lenny Rachitsky](https://twitter.com/lennysan)** - For creating an incredible podcast and generously sharing 300+ episodes of PM wisdom
 - **Listen at:** [lennyspodcast.com](https://www.lennyspodcast.com/)
 - **Subscribe:** Available on all podcast platforms
 
 ### 📝 Transcripts
+
 - **[ChatPRD Team](https://github.com/ChatPRD)** - For the amazing work transcribing all episodes
 - **Repository:** [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)
 
 ### 🌟 Podcast Guests
+
 Massive credit to **300+ world-class guests** who shared their wisdom:
+
 - **Brian Chesky** (Airbnb), **Shreyas Doshi** (Stripe/Twitter/Google), **Marty Cagan** (SVPG)
 - **Kevin Weil** (OpenAI), **Dylan Field** (Figma), **Jeffrey Pfeffer** (Stanford)
 - And 40+ more incredible PM leaders who made this possible
@@ -426,4 +479,3 @@ cd skills/lenny-pm-skills
 **Ready to build the most powerful AI PM products ever?**
 
 **Let's go. 🚀**
-
